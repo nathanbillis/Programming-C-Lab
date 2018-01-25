@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1481809772 source:/home/userfs/n/ncab500/Programming/C/labs_misc/lab_one_main/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/n/ncab500/Programming/C/labs_misc/lab_one_main/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/n/ncab500/Programming/C/labs_misc/lab_one_main/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/n/ncab500/Programming/C/labs_misc/lab_one_main/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1516877797 source:/home/userfs/n/ncab500/Programming/C/labs_misc/lab_one_main/src/main.c
+	<graphics_lib.h>
+
